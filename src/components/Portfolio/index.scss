@@ -1,0 +1,20 @@
+.portfolio-page {
+    padding-left: 100px;
+    padding-right: 50px;
+    width: calc(100% - 150px);
+    position: initial;
+    height: 100%;
+    overflow: auto;
+
+    h1.page-title {
+        font-size: 53px;
+        font-family: 'Coolvetica';
+        color: #ffd700;
+        font-weight: 400;
+        margin-top: 100px;
+        margin-left: 100px;
+        position: relative;
+        margin-bottom: 40px;
+        left: 10px;
+    }
+}
